@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1606149173 source:d:\onedrive\onedrive - unip\unip ead\aulas\2° semestre\pim iv - projeto integrado multidisciplinar\projeto\cadastro covid-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1606177836 source:d:\onedrive\onedrive - unip\unip ead\aulas\2° semestre\pim iv - projeto integrado multidisciplinar\projeto codeblocks\cadastro covid-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
